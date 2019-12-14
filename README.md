@@ -56,6 +56,9 @@ ENV MONGOUSER=<cosmosdb username>
 ENV MONGOPASSWORD=<cosmosdb primary password>
 ```
 
+## Comments
+This was a great lab!
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
